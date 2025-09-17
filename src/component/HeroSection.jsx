@@ -6,7 +6,7 @@ export default function HeroSection() {
 
   const navigate=useNavigate();  
   return (
-    <section className="relative w-full mx-auto min-h-screen flex items-center justify-center overflow-hidden">
+    <section className="relative w-full mx-auto  flex items-center justify-center overflow-hidden">
       
       {/* Gradient Background */}
       <div
