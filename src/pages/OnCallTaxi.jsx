@@ -180,7 +180,7 @@ export default function OnCallTaxi() {
                     <div className="relative w-full h-full text-center">
                       <div className="absolute inset-0 bg-gradient-to-br from-orange-600/10 to-amber-600/10 flex items-center justify-center">
                         <img src={car} alt="Taxi" className="w-full h-full object-cover rounded-xl sm:rounded-2xl" />
-                        <Car className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 text-gray-400" />
+                        {/* <Car className="w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 text-gray-400" /> */}
                       </div>
                     </div>
                   </div>
